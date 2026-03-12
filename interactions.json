@@ -1,0 +1,19 @@
+[
+    {
+        "drug_a": "Warfarin",
+        "drug_b": "Ibuprofen",
+        "interaction_type": "Pharmacodynamic",
+        "mechanism": "Synergistic antiplatelet effect; increased risk of GI bleeding.",
+        "severity": "Major",
+        "recommendation": "Avoid concurrent use or monitor PT/INR closely."
+    },
+    {
+                                      
+        "drug_a": "Simvastatin",
+        "drug_b": "Clarithromycin",
+        "interaction_type": "Pharmacokinetic",
+        "mechanism": "CYP3A4 inhibition leading to increased simvastatin levels.",
+        "severity": "Contraindicated",
+        "recommendation": "Suspend simvastatin during antibiotic course."
+    }
+]
